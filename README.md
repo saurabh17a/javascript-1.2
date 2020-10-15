@@ -4,7 +4,7 @@
 
 ## Project initialization
 
-* `Fork and Clone` this repository and cd into it.
+* `Fork and Clone` this repository and cd into it and yes.
 * complete all of the exercises in each file.
 * As you complete an exercise be sure to use invoke your functions and `console.log` to print out the output of your function.
 * Once the proper output is demonstrated, commit your code to your fork.
